@@ -1,0 +1,41 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+https://week6cse.herokuapp.com/
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+https://github.com/TabiDavid/wee7cse
+
+3. Briefly list and describe the elements of the application that are functioning. 
+
+Everything from the last week is working.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+I tried to add the JSON, I could not handle, I follow the instructions but I think my mind
+need to learn make logic in the code.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+Going back to week three, I could understand how far we are, it is interesting that when you are 
+going week by week appear a lot of basic things that I could not remember.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+
+I think to add this code to the platform is good.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   *3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+I think my code is not working as the teacher asked to do, I think I was going from one point to another 
+that really give me stress but it is coding, first, going back and move forward. My code is not good now but I 
+think if I am keeping practicing and practicing I will have the needs skill to solve this short problem.
